@@ -8,9 +8,17 @@
 
 - 🔭 I’m currently working on **NEQQO, InsightsPRO, PKT, RAGAlerts**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Sonu-Developer/Sonu-Developer/](https://github.com/Sonu-Developer/Sonu-Developer/)
+
 - 💬 Ask me about **CodeIgniter, Laravel, jQuery, JavaScript, SQL, Mongodb**
 
 - 📫 How to reach me **sonu.kumar@mattsenkumar.com**
+
+- ⚡ Fun fact **I am funny 😂**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
