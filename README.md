@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonu-developer&label=Profile%20views&color=0e75b6&style=flat" alt="sonu-developer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonu-developer" alt="sonu-developer" /></a> </p>
-
 - 🔭 I’m currently working on **NEQQO, InsightsPRO, PKT, RAGAlerts**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sonu-Developer/Sonu-Developer/](https://github.com/Sonu-Developer/Sonu-Developer/)
